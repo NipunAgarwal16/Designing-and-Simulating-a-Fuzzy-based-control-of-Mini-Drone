@@ -43,3 +43,11 @@ The possible future work on this topic could be to develop a fuzzy control syste
 [7] Ali, Fawaz Elsiddig Ahmed. Fuzzy Control System Design for an Aircraft Attitude in Longitudinal Motion. Diss. Sudan University of Science and Technology, 2017.
 
 [8] Zhao, Zhen-Yu, Masayoshi Tomizuka, and Satoru Isaka. "Fuzzy gain scheduling of PID controllers." IEEE transactions on systems, man, and cybernetics 23.5 (1993): 1392-1398.
+
+## Credits
+
+We are extremely thankful to the support of mentors and advisors of this Project:
+
+Dr. Puneet Mishra 
+(Assistant Professor, Department of Electrical and Electronics Engineering, BITS Pilani, Pilani Campus
+India)
