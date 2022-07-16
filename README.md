@@ -48,6 +48,6 @@ The possible future work on this topic could be to develop a fuzzy control syste
 
 We are extremely thankful to the support of mentors and advisors of this Project:
 
-Dr. Puneet Mishra 
+[Dr. Puneet Mishra](https://www.bits-pilani.ac.in/pilani/puneetmishra/Profile) 
 (Assistant Professor, Department of Electrical and Electronics Engineering, BITS Pilani, Pilani Campus
 India)
